@@ -4,5 +4,6 @@
 			echo "Welcome - USA ";
 				echo "Willkommen - Alemão ";
 					echo "Bienvenue - Frânces"
+						echo "欢迎 - Chines"
 
 	?>
